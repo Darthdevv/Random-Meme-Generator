@@ -106,3 +106,8 @@ meme--image{
 .bottom {
   bottom: 0;
 }
+
+.laugh-emoji{
+  font-size: 25px;
+  margin-right: 10px;
+}
