@@ -2,7 +2,7 @@ export default function Header(props) {
     return (
         <header className="header">
             <img
-                src={`./images/${props.img}`} 
+                src={`/images/${props.img}`} 
                 className="header--image"
                 alt="Troll Face"
             />
